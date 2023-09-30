@@ -1,0 +1,5 @@
+PNJ-001	Pink	PN	Panjabi	0	50
+PNJ-002	Green	PN	Panjabi	2	504
+PNJ-004	Black	PN	Panjabi	10	501
+PT-005	White	PT	Pants	48	5026
+0001	Cap Black Large	CP	Cap	10	50

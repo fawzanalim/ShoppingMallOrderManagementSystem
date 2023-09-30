@@ -1,0 +1,5 @@
+SHOE	Shoe
+PT	Pants
+CLT	Cloths
+PN	Panjabi
+CP	Cap

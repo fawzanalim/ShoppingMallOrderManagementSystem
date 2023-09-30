@@ -1,0 +1,37 @@
+Functionalities of Admin
+	i. Login to Access System.
+	ii. Add Category
+	iii. Add Item Category-wise
+	iv. Modify Item
+	v. Display All records of
+		a. Item Category
+		b. Items Category-wise
+		c. Customer Orders
+		d. Customer Payment
+	vi. Search Specific record of
+		a. Customer Order
+		b. Customer Payment
+	vii. Order Delivery Management
+		a. Add/Modify/search/delete Delivery Staff
+		b. Assign orders to Delivery Staff
+	viii. Exit
+
+Functionalities of Delivery Staff
+	i. Login to Access system.
+	ii. View and select Orders for Delivery.
+	iii. Take Feedback and Update Delivery Status.
+	iv. Exit
+	
+Functionalities of All Customers (Registered / Not-Registered)
+	i. View all Items as per category
+	ii. New customer Register to Access other Details
+	iii. Exit
+
+Functionalities of Registered Customer
+	i. Login to Access System
+	ii. View Detail of
+		a. Category Details
+		b. Item Details
+	iii. Place an Order (Select Item and add to card)
+	iv. Make payment to confirm order placement.
+	v. Exit
